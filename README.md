@@ -3,4 +3,6 @@
 My Educational Repository
 
 Hello there! ,
-              Akshay, Sohith and I are fellow Freshmen/Class-Mates at IIT Bhubaneswar. We are assigned a Project by our Professors to design a program in the Game Development Field using C-Language. As Beginners, we are persuaded to use code built by others, for which we thank @sanfoundry for letting us review their code and to morph it into our own.Yet,we still implemented our own ideas and brought life to the game.We hope whoever views our project shares our opinion regarding this Project.Have a Good Day.  
+              I am a Freshman at  IIT Bhubaneswar. I was assigned a Project by my Professors to design a Project in the Game Development Field using C-language. As a Beginner, I was persuaded to use code built by others, for which I thank @sanfoundry for letting me review their code and to morph it into my own. Yet, I still implemented my own ideas and brought life to the game. We hope whoever views my project shares the same opinion regarding this Project. Also,feel free to provide any suggestions regarding the Project in the Comment section.
+
+            Have a Good Day. 
